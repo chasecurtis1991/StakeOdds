@@ -8,7 +8,6 @@ This simple Python script takes the data from the Stake.com API and parses it in
 - The Stake.com API is a **CLOSED API**, meaning there is no documentation for it. Therefore, the query parameters may change at any time.
 - Because this API is closed, this project will **NOT** be maintained on a regular basis
 <br>
-<br>
 
 ## Usage
 
